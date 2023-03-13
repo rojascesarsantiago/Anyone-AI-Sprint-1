@@ -1,0 +1,504 @@
+,DISPLAY_FIRST_LAST,TEAM_NAME,POSITION,HEIGHT,WEIGHT,COUNTRY,BIRTHDATE,SEASON_EXP_y,DRAFT_NUMBER_y,GP,MIN,PTS,REB,AST,STL,BLK,SALARY
+0,Precious Achiuwa,Raptors,Forward,6-8,225,Nigeria,1999-09-19T00:00:00,2,20,,,,,,,,2711280.0
+1,Steven Adams,Grizzlies,Center,6-11,265,New Zealand,1993-07-20T00:00:00,9,12,,,,,,,,17073171.0
+2,Bam Adebayo,Heat,Center-Forward,6-9,255,USA,1997-07-18T00:00:00,5,14,64.0,2143.0,1197.0,573.0,346.0,75.0,66.0,28103550.0
+3,Santi Aldama,Grizzlies,Forward-Center,6-11,215,Spain,2001-01-10T00:00:00,1,30,,,,,,,,1994520.0
+4,LaMarcus Aldridge,Nets,Center-Forward,6-11,250,USA,1985-07-19T00:00:00,16,2,5.0,130.0,64.0,24.0,13.0,3.0,11.0,2641691.0
+5,Nickeil Alexander-Walker,Jazz,Guard,6-5,205,Canada,1998-09-02T00:00:00,3,17,,,,,,,,3261480.0
+6,Grayson Allen,Bucks,Guard,6-4,198,USA,1995-10-08T00:00:00,4,21,,,,,,,,4054695.0
+7,Jarrett Allen,Cavaliers,Center,6-10,243,USA,1998-04-21T00:00:00,5,22,51.0,1544.0,672.0,506.0,86.0,25.0,71.0,20000000.0
+8,Jose Alvarado,Pelicans,Guard,6-0,179,USA,1998-04-12T00:00:00,1,Undrafted,,,,,,,,
+9,Kyle Anderson,Timberwolves,Forward-Guard,6-9,230,USA,1993-09-20T00:00:00,8,30,,,,,,,,9937150.0
+10,Giannis Antetokounmpo,Bucks,Forward,6-11,242,Greece,1994-12-06T00:00:00,9,15,61.0,2013.0,1717.0,671.0,357.0,72.0,73.0,39344970.0
+11,Thanasis Antetokounmpo,Bucks,Forward,6-6,219,Greece,1992-07-18T00:00:00,4,51,57.0,551.0,166.0,124.0,46.0,22.0,10.0,1729217.0
+12,Carmelo Anthony,Lakers,Forward,6-7,238,USA,1984-05-29T00:00:00,19,3,,,,,,,,2641691.0
+13,Cole Anthony,Magic,Guard,6-3,185,USA,2000-05-15T00:00:00,2,15,47.0,1273.0,605.0,221.0,192.0,30.0,18.0,3449400.0
+14,OG Anunoby,Raptors,Forward,6-7,232,United Kingdom,1997-07-17T00:00:00,5,23,43.0,1433.0,682.0,237.0,94.0,66.0,32.0,16071429.0
+15,Ryan Arcidiacono,Bulls,Guard,6-3,195,USA,1994-03-26T00:00:00,6,Undrafted,44.0,450.0,136.0,67.0,56.0,9.0,0.0,586136.0
+16,D.J. Augustin,Lakers,Guard,5-11,183,USA,1987-11-10T00:00:00,14,9,,,,,,,,7622467.0
+17,Deni Avdija,Wizards,Forward,6-9,210,Israel,2001-01-03T00:00:00,2,9,54.0,1257.0,342.0,262.0,63.0,32.0,15.0,4692840.0
+18,Deandre Ayton,Suns,Center,6-11,250,Bahamas,1998-07-23T00:00:00,4,1,69.0,2115.0,997.0,727.0,99.0,41.0,81.0,12632950.0
+19,Udoka Azubuike,Jazz,Center-Forward,7-0,270,Nigeria,1999-09-17T00:00:00,2,27,15.0,57.0,16.0,13.0,0.0,1.0,4.0,2075880.0
+20,Marvin Bagley III,Pistons,Forward,6-11,235,USA,1999-03-14T00:00:00,4,2,,,,,,,,11312114.0
+21,LaMelo Ball,Hornets,Guard,6-7,180,USA,2001-08-22T00:00:00,2,3,51.0,1469.0,803.0,302.0,313.0,81.0,18.0,8231760.0
+22,Lonzo Ball,Bulls,Guard,6-6,190,USA,1997-10-27T00:00:00,5,2,,,,,,,,18604651.0
+23,Mo Bamba,Magic,Center,7-0,231,USA,1998-05-12T00:00:00,4,6,46.0,725.0,367.0,265.0,35.0,14.0,58.0,7568742.0
+24,Desmond Bane,Grizzlies,Guard,6-5,215,USA,1998-06-25T00:00:00,2,30,68.0,1519.0,625.0,210.0,118.0,41.0,16.0,2033160.0
+25,Dalano Banton,Raptors,Forward,6-7,204,Canada,1999-11-07T00:00:00,1,46,,,,,,,,925258.0
+26,Harrison Barnes,Kings,Forward,6-8,225,USA,1992-05-30T00:00:00,10,7,58.0,2102.0,933.0,385.0,201.0,43.0,11.0,20284091.0
+27,Scottie Barnes,Raptors,Forward,6-7,225,USA,2001-08-01T00:00:00,1,4,,,,,,,,7280520.0
+28,RJ Barrett,Knicks,Forward-Guard,6-6,214,Canada,2000-06-14T00:00:00,3,3,72.0,2511.0,1264.0,414.0,217.0,53.0,20.0,8623920.0
+29,Will Barton,Wizards,Guard,6-5,181,USA,1991-01-06T00:00:00,10,40,,,,,,,,15384615.0
+30,Charles Bassey,76ers,Center-Forward,6-9,230,Nigeria,2000-10-28T00:00:00,1,53,,,,,,,,925258.0
+31,Keita Bates-Diop,Spurs,Forward,6-8,229,USA,1996-01-23T00:00:00,4,48,30.0,245.0,79.0,49.0,12.0,11.0,5.0,1729217.0
+32,Nicolas Batum,Clippers,Guard-Forward,6-8,230,France,1988-12-14T00:00:00,14,25,67.0,1835.0,540.0,316.0,148.0,69.0,37.0,12213507.0
+33,Kent Bazemore,Lakers,Guard-Forward,6-4,195,USA,1989-07-01T00:00:00,10,Undrafted,,,,,,,,2401537.0
+34,Darius Bazley,Thunder,Forward,6-8,208,USA,2000-06-12T00:00:00,3,23,55.0,1714.0,754.0,396.0,99.0,29.0,25.0,2513040.0
+35,Bradley Beal,Wizards,Guard,6-4,207,USA,1993-06-28T00:00:00,10,3,60.0,2147.0,1878.0,283.0,265.0,69.0,22.0,34502130.0
+36,Malik Beasley,Jazz,Guard,6-4,187,USA,1996-11-26T00:00:00,6,19,,,,,,,,14391964.0
+37,Davis Bertans,Mavericks,Forward,6-10,225,Latvia,1992-11-12T00:00:00,6,42,,,,,,,,16000000.0
+38,Patrick Beverley,Lakers,Guard,6-1,180,USA,1988-07-12T00:00:00,10,42,,,,,,,,14320988.0
+39,Saddiq Bey,Pistons,Forward,6-7,215,USA,1999-04-09T00:00:00,2,19,70.0,1909.0,857.0,318.0,95.0,52.0,14.0,2824320.0
+40,Khem Birch,Raptors,Center,6-9,233,Canada,1992-09-28T00:00:00,5,Undrafted,19.0,577.0,227.0,144.0,36.0,16.0,22.0,6350000.0
+41,Goga Bitadze,Pacers,Center-Forward,7-0,250,Georgia,1999-07-20T00:00:00,3,18,45.0,561.0,231.0,150.0,37.0,9.0,60.0,3098400.0
+42,Bismack Biyombo,Suns,Center,6-8,255,DRC,1992-08-28T00:00:00,11,7,,,,,,,,1366392.0
+43,Nemanja Bjelica,Warriors,Forward,6-9,234,Serbia,1988-05-09T00:00:00,8,35,,,,,,,,2089448.0
+44,Eric Bledsoe,Trail Blazers,Guard,6-1,214,USA,1989-12-09T00:00:00,13,18,,,,,,,,18125000.0
+45,Keljin Blevins,Trail Blazers,Guard,6-4,200,USA,1995-11-24T00:00:00,2,,17.0,75.0,12.0,10.0,4.0,2.0,0.0,
+46,Bogdan Bogdanovic,Hawks,Guard,6-6,225,Serbia,1992-08-18T00:00:00,5,27,44.0,1305.0,720.0,160.0,147.0,49.0,13.0,18000000.0
+47,Bojan Bogdanovic,Jazz,Forward,6-7,226,Croatia,1989-04-18T00:00:00,8,31,72.0,2216.0,1225.0,281.0,136.0,45.0,4.0,18700000.0
+48,Bol Bol,Magic,Center-Forward,7-2,220,Sudan,1999-11-16T00:00:00,3,44,,,,,,,,2161152.0
+49,Leandro Bolmaro,Jazz,Forward,6-6,200,Argentina,2000-09-11T00:00:00,1,23,,,,,,,,2353320.0
+50,Isaac Bonga,Raptors,Guard,6-8,180,Germany,1999-11-08T00:00:00,4,39,,,,,,,,1729217.0
+51,Devin Booker,Suns,Guard,6-5,206,USA,1996-10-30T00:00:00,7,13,67.0,2270.0,1712.0,281.0,289.0,53.0,16.0,31610000.0
+52,Brandon Boston,Clippers,Guard,6-6,188,USA,2001-11-28T00:00:00,1,51,,,,,,,,925258.0
+53,Chris Boucher,Raptors,Forward-Center,6-9,200,Saint Lucia,1993-01-11T00:00:00,5,Undrafted,60.0,1453.0,818.0,404.0,63.0,35.0,111.0,7009615.0
+54,James Bouknight,Hornets,Guard,6-4,190,USA,2000-09-18T00:00:00,1,11,,,,,,,,4154400.0
+55,Avery Bradley,Lakers,Guard,6-3,180,USA,1990-11-26T00:00:00,12,19,,,,,,,,2641691.0
+56,Tony Bradley,Bulls,Center-Forward,6-10,248,USA,1998-01-08T00:00:00,5,28,,,,,,,,1789256.0
+57,Ignas Brazdeikis,Magic,Forward,6-6,221,Canada,1999-01-08T00:00:00,3,47,8.0,234.0,89.0,41.0,16.0,4.0,3.0,
+58,Mikal Bridges,Suns,Forward,6-6,209,USA,1996-08-30T00:00:00,4,10,72.0,2348.0,970.0,309.0,152.0,76.0,63.0,5557725.0
+59,Miles Bridges,Hornets,Forward,6-7,225,USA,1998-03-21T00:00:00,4,12,66.0,1932.0,840.0,397.0,147.0,44.0,52.0,5421493.0
+60,Oshae Brissett,Pacers,Forward-Guard,6-7,210,Canada,1998-06-20T00:00:00,3,Undrafted,21.0,519.0,229.0,115.0,18.0,19.0,20.0,1701593.0
+61,Malcolm Brogdon,Celtics,Guard,6-5,229,USA,1992-12-11T00:00:00,6,36,,,,,,,,21700000.0
+62,Armoni Brooks,Raptors,Guard,6-3,195,USA,1998-06-05T00:00:00,3,,,,,,,,,1489065.0
+63,Dillon Brooks,Grizzlies,Guard-Forward,6-7,225,Canada,1996-01-22T00:00:00,5,45,67.0,1997.0,1151.0,196.0,157.0,78.0,26.0,12200000.0
+64,Bruce Brown,Nuggets,Guard-Forward,6-4,202,USA,1996-08-15T00:00:00,4,42,,,,,,,,4736102.0
+65,Jaylen Brown,Celtics,Guard-Forward,6-6,223,USA,1996-10-24T00:00:00,6,3,58.0,1999.0,1430.0,347.0,195.0,72.0,32.0,24830357.0
+66,Moses Brown,Clippers,Center,7-2,245,USA,1999-10-13T00:00:00,3,Undrafted,,,,,,,,1701593.0
+67,Sterling Brown,Rockets,Guard-Forward,6-5,219,USA,1995-02-10T00:00:00,5,46,51.0,1229.0,416.0,224.0,72.0,38.0,12.0,3000000.0
+68,Greg Brown III,Trail Blazers,Forward,6-7,206,USA,2001-09-01T00:00:00,1,43,,,,,,,,925258.0
+69,Charlie Brown Jr.,76ers,Guard,6-6,199,USA,1997-02-02T00:00:00,3,Undrafted,,,,,,,,
+70,Chaundee Brown Jr.,Hawks,Forward,6-5,215,USA,1998-12-04T00:00:00,2,Undrafted,,,,,,,,
+71,Troy Brown Jr.,Lakers,Guard-Forward,6-6,215,USA,1999-07-28T00:00:00,4,15,,,,,,,,5170564.0
+72,Jalen Brunson,Knicks,Guard,6-1,190,USA,1996-08-31T00:00:00,4,33,,,,,,,,1802057.0
+73,Thomas Bryant,Lakers,Center-Forward,6-10,248,USA,1997-07-31T00:00:00,5,42,,,,,,,,8730159.0
+74,Reggie Bullock,Mavericks,Guard-Forward,6-6,205,USA,1991-03-16T00:00:00,9,25,,,,,,,,9536000.0
+75,Trey Burke,Rockets,Guard,6-0,185,USA,1992-11-12T00:00:00,9,9,,,,,,,,3333333.0
+76,Alec Burks,Pistons,Guard,6-6,214,USA,1991-07-20T00:00:00,11,12,,,,,,,,9536000.0
+77,Jared Butler,Jazz,Guard,6-3,193,USA,2000-08-25T00:00:00,1,40,,,,,,,,925258.0
+78,Jimmy Butler,Heat,Forward,6-7,230,USA,1989-09-14T00:00:00,11,30,52.0,1745.0,1116.0,359.0,369.0,108.0,18.0,36016200.0
+79,Devontae Cacok,Trail Blazers,Forward,6-7,240,USA,1996-10-08T00:00:00,3,Undrafted,,,,,,,,
+80,Kentavious Caldwell-Pope,Nuggets,Guard,6-5,204,USA,1993-02-18T00:00:00,9,8,,,,,,,,13038862.0
+81,Facundo Campazzo,Nuggets,Guard,5-10,195,Argentina,1991-03-23T00:00:00,3,Undrafted,65.0,1425.0,396.0,134.0,232.0,79.0,14.0,3804150.0
+82,Vlatko Cancar,Nuggets,Forward,6-8,236,Slovenia,1997-04-10T00:00:00,3,49,41.0,281.0,85.0,50.0,14.0,11.0,2.0,1782621.0
+83,Devin Cannady,Magic,Guard,6-2,183,USA,1996-05-21T00:00:00,2,,8.0,74.0,34.0,5.0,1.0,5.0,1.0,
+84,Clint Capela,Hawks,Center,6-10,256,Switzerland,1994-05-18T00:00:00,8,25,63.0,1898.0,956.0,903.0,49.0,44.0,129.0,17103448.0
+85,Vernon Carey Jr.,Wizards,Forward-Center,6-9,270,USA,2001-02-25T00:00:00,2,32,,,,,,,,1517981.0
+86,Jevon Carter,Bucks,Guard,6-1,200,USA,1995-09-14T00:00:00,4,32,,,,,,,,4107149.0
+87,Wendell Carter Jr.,Magic,Center-Forward,6-10,270,USA,1999-04-16T00:00:00,4,7,22.0,583.0,258.0,193.0,35.0,17.0,18.0,6920027.0
+88,Alex Caruso,Bulls,Guard,6-5,186,USA,1994-02-28T00:00:00,5,Undrafted,,,,,,,,8604651.0
+89,Justin Champagnie,Raptors,Guard-Forward,6-6,206,USA,2001-06-29T00:00:00,1,Undrafted,,,,,,,,
+90,Chris Chiozza,Warriors,Guard,5-11,175,USA,1995-11-21T00:00:00,4,Undrafted,,,,,,,,
+91,Marquese Chriss,Rockets,Forward,6-9,240,USA,1997-07-02T00:00:00,6,8,,,,,,,,958529.0
+92,Josh Christopher,Rockets,Guard,6-3,215,USA,2001-12-08T00:00:00,1,24,,,,,,,,2259240.0
+93,Gary Clark,Pelicans,Forward,6-6,225,USA,1994-11-16T00:00:00,4,Undrafted,,,,,,,,377645.0
+94,Brandon Clarke,Grizzlies,Forward,6-8,215,Canada,1996-09-19T00:00:00,3,21,59.0,1415.0,610.0,328.0,95.0,60.0,51.0,2726880.0
+95,Jordan Clarkson,Jazz,Guard,6-4,194,USA,1992-06-07T00:00:00,8,46,68.0,1818.0,1251.0,274.0,168.0,61.0,10.0,12420000.0
+96,Nic Claxton,Nets,Center,6-11,215,USA,1999-04-17T00:00:00,3,31,32.0,594.0,212.0,166.0,28.0,23.0,40.0,1782621.0
+97,Amir Coffey,Clippers,Guard-Forward,6-7,210,USA,1997-06-17T00:00:00,3,Undrafted,44.0,395.0,140.0,44.0,22.0,10.0,0.0,
+98,John Collins,Hawks,Forward-Center,6-9,226,USA,1997-09-23T00:00:00,5,19,63.0,1848.0,1111.0,467.0,78.0,34.0,63.0,23000000.0
+99,Zach Collins,Spurs,Forward-Center,6-11,250,USA,1997-11-19T00:00:00,4,10,,,,,,,,6984127.0
+100,Mike Conley,Jazz,Guard,6-1,175,USA,1987-10-11T00:00:00,15,4,51.0,1498.0,827.0,177.0,305.0,70.0,9.0,21000000.0
+101,Pat Connaughton,Bucks,Guard,6-5,209,USA,1993-01-06T00:00:00,7,41,69.0,1575.0,468.0,332.0,81.0,49.0,23.0,5333333.0
+102,Tyler Cook,Bulls,Forward,6-8,255,USA,1997-09-23T00:00:00,3,Undrafted,,,,,,,,
+103,Sharife Cooper,Hawks,Guard,6-1,176,USA,2001-06-11T00:00:00,2,48,,,,,,,,
+104,DeMarcus Cousins,Nuggets,Center,6-10,270,USA,1990-08-13T00:00:00,12,5,,,,,,,,1290481.0
+105,Robert Covington,Clippers,Forward,6-7,209,USA,1990-12-14T00:00:00,9,Undrafted,,,,,,,,12975471.0
+106,Torrey Craig,Suns,Forward,6-7,221,USA,1990-12-19T00:00:00,5,Undrafted,32.0,602.0,229.0,154.0,33.0,19.0,20.0,4878049.0
+107,Jae Crowder,Suns,Forward,6-6,235,USA,1990-07-06T00:00:00,10,34,60.0,1648.0,603.0,282.0,127.0,48.0,27.0,9720900.0
+108,Jarrett Culver,Hawks,Guard-Forward,6-6,195,USA,1999-02-20T00:00:00,3,6,,,,,,,,6395160.0
+109,Cade Cunningham,Pistons,Guard,6-6,220,USA,2001-09-25T00:00:00,1,1,,,,,,,,10050120.0
+110,Seth Curry,Nets,Guard,6-2,185,USA,1990-08-23T00:00:00,8,Undrafted,,,,,,,,8186047.0
+111,Stephen Curry,Warriors,Guard,6-2,185,USA,1988-03-14T00:00:00,13,7,63.0,2152.0,2015.0,345.0,363.0,77.0,8.0,45780966.0
+112,Anthony Davis,Lakers,Forward-Center,6-10,253,USA,1993-03-11T00:00:00,10,1,36.0,1162.0,786.0,286.0,110.0,45.0,59.0,35361360.0
+113,Ed Davis,Cavaliers,Center-Forward,6-9,218,USA,1989-06-05T00:00:00,13,13,,,,,,,,2641691.0
+114,Terence Davis,Kings,Guard,6-4,201,USA,1997-05-16T00:00:00,3,Undrafted,27.0,581.0,299.0,88.0,46.0,27.0,7.0,4000000.0
+115,DeMar DeRozan,Bulls,Guard-Forward,6-6,220,USA,1989-08-07T00:00:00,13,9,,,,,,,,26000000.0
+116,Dewayne Dedmon,Heat,Center,7-0,245,USA,1989-08-12T00:00:00,9,Undrafted,16.0,210.0,113.0,86.0,12.0,9.0,6.0,5256308.0
+117,Donte DiVincenzo,Warriors,Guard,6-4,203,USA,1997-01-31T00:00:00,4,17,,,,,,,,4675830.0
+118,Hamidou Diallo,Pistons,Guard,6-5,202,USA,1998-07-31T00:00:00,4,45,20.0,465.0,223.0,107.0,24.0,10.0,12.0,5200000.0
+119,Gorgui Dieng,Spurs,Center,6-10,248,Senegal,1990-01-18T00:00:00,9,21,16.0,181.0,85.0,42.0,19.0,9.0,2.0,4000000.0
+120,Spencer Dinwiddie,Mavericks,Guard,6-6,215,USA,1993-04-06T00:00:00,8,38,,,,,,,,17142857.0
+121,Luka Doncic,Mavericks,Forward-Guard,6-7,230,Slovenia,1999-02-28T00:00:00,4,3,66.0,2262.0,1830.0,527.0,567.0,64.0,36.0,10174391.0
+122,Luguentz Dort,Thunder,Guard,6-3,215,Canada,1999-04-19T00:00:00,3,Undrafted,52.0,1543.0,729.0,189.0,88.0,45.0,19.0,1782621.0
+123,Ayo Dosunmu,Bulls,Guard,6-4,200,USA,2000-01-17T00:00:00,1,38,,,,,,,,925258.0
+124,Goran Dragic,Bulls,Guard,6-3,190,Slovenia,1986-05-06T00:00:00,14,45,,,,,,,,20168742.0
+125,Andre Drummond,Bulls,Center,6-10,279,USA,1993-08-10T00:00:00,10,9,,,,,,,,2401537.0
+126,Chris Duarte,Pacers,Guard,6-5,190,Dominican Republic,1997-06-13T00:00:00,1,13,,,,,,,,3749520.0
+127,David Duke Jr.,Nets,Guard,6-4,204,USA,1999-10-13T00:00:00,1,Undrafted,,,,,,,,
+128,Kevin Durant,Nets,Forward,6-10,240,USA,1988-09-29T00:00:00,14,2,35.0,1157.0,943.0,247.0,195.0,25.0,45.0,40918900.0
+129,Anthony Edwards,Timberwolves,Guard,6-4,225,USA,2001-08-05T00:00:00,2,1,72.0,2314.0,1392.0,336.0,211.0,82.0,36.0,10245480.0
+130,Carsen Edwards,Celtics,Guard,5-11,200,USA,1998-03-12T00:00:00,4,33,31.0,276.0,123.0,26.0,14.0,7.0,1.0,
+131,Kessler Edwards,Nets,Forward,6-7,203,USA,2000-08-09T00:00:00,1,44,,,,,,,,
+132,CJ Elleby,Timberwolves,Forward-Guard,6-6,200,USA,2000-06-16T00:00:00,2,46,,,,,,,,1517981.0
+133,Wayne Ellington,Lakers,Guard,6-4,207,USA,1987-11-29T00:00:00,13,28,,,,,,,,2641691.0
+134,Joel Embiid,76ers,Center-Forward,7-0,280,Cameroon,1994-03-16T00:00:00,6,3,51.0,1585.0,1451.0,539.0,145.0,50.0,69.0,31579390.0
+135,Derrick Favors,Thunder,Forward,6-9,265,USA,1991-07-15T00:00:00,12,3,,,,,,,,9720900.0
+136,Bruno Fernando,Rockets,Forward-Center,6-9,240,Angola,1998-08-15T00:00:00,3,34,,,,,,,,1782621.0
+137,Dorian Finney-Smith,Mavericks,Forward,6-7,220,USA,1993-05-04T00:00:00,6,Undrafted,60.0,1921.0,590.0,326.0,102.0,52.0,25.0,4000000.0
+138,Malik Fitts,Celtics,Forward,6-5,230,USA,1997-07-04T00:00:00,3,Undrafted,,,,,,,,85578.0
+139,Malachi Flynn,Raptors,Guard,6-1,175,USA,1998-05-09T00:00:00,2,29,47.0,928.0,353.0,116.0,137.0,38.0,7.0,2048040.0
+140,Bryn Forbes,Timberwolves,Guard,6-2,205,USA,1993-07-23T00:00:00,6,Undrafted,,,,,,,,
+141,Trent Forrest,Hawks,Guard,6-4,210,USA,1998-06-12T00:00:00,2,Undrafted,,,,,,,,
+142,Evan Fournier,Knicks,Guard-Forward,6-6,205,France,1992-10-29T00:00:00,10,20,,,,,,,,18139535.0
+143,De'Aaron Fox,Kings,Guard,6-3,185,USA,1997-12-20T00:00:00,5,5,58.0,2036.0,1461.0,203.0,417.0,87.0,27.0,28103550.0
+144,Melvin Frazier Jr.,Magic,Guard-Forward,6-5,215,USA,1996-08-30T00:00:00,4,35,,,,,,,,
+145,Markelle Fultz,Magic,Guard,6-4,209,USA,1998-05-29T00:00:00,5,1,8.0,215.0,103.0,25.0,43.0,8.0,2.0,16500000.0
+146,Wenyen Gabriel,Lakers,Forward,6-9,205,South Sudan,1997-03-26T00:00:00,3,Undrafted,,,,,,,,
+147,Daniel Gafford,Wizards,Forward-Center,6-9,234,USA,1998-10-01T00:00:00,3,38,23.0,408.0,233.0,128.0,12.0,15.0,41.0,1782621.0
+148,Danilo Gallinari,Celtics,Forward,6-10,236,Italy,1988-08-08T00:00:00,13,6,,,,,,,,20475000.0
+149,Darius Garland,Cavaliers,Guard,6-1,192,USA,2000-01-26T00:00:00,3,5,54.0,1790.0,941.0,129.0,329.0,66.0,6.0,7040880.0
+150,Usman Garuba,Rockets,Forward,6-8,229,Spain,2002-03-09T00:00:00,1,23,,,,,,,,2353320.0
+151,Luka Garza,Timberwolves,Center,6-10,243,USA,1998-12-27T00:00:00,1,52,,,,,,,,925258.0
+152,Rudy Gay,Jazz,Forward-Guard,6-8,250,USA,1986-08-17T00:00:00,16,8,,,,,,,,5890000.0
+153,Paul George,Clippers,Forward,6-8,220,USA,1990-05-02T00:00:00,12,10,54.0,1821.0,1259.0,359.0,280.0,62.0,24.0,39344970.0
+154,Taj Gibson,Wizards,Forward,6-9,232,USA,1985-06-24T00:00:00,13,26,,,,,,,,4910000.0
+155,Josh Giddey,Thunder,Guard,6-8,205,Australia,2002-10-10T00:00:00,1,6,,,,,,,,5988000.0
+156,Shai Gilgeous-Alexander,Thunder,Guard,6-6,180,Canada,1998-07-12T00:00:00,4,11,35.0,1180.0,830.0,166.0,207.0,27.0,23.0,5495532.0
+157,Anthony Gill,Wizards,Forward,6-7,230,USA,1992-10-17T00:00:00,2,Undrafted,26.0,218.0,80.0,51.0,11.0,10.0,4.0,1517981.0
+158,Rudy Gobert,Timberwolves,Center,7-1,258,France,1992-06-26T00:00:00,9,27,,,,,,,,35344828.0
+159,Brandon Goodwin,Cavaliers,Guard,6-0,180,USA,1995-10-02T00:00:00,5,Undrafted,,,,,,,,
+160,Aaron Gordon,Nuggets,Forward,6-8,235,USA,1995-09-16T00:00:00,8,4,25.0,648.0,254.0,118.0,56.0,17.0,14.0,16409091.0
+161,Eric Gordon,Rockets,Guard,6-3,215,USA,1988-12-25T00:00:00,14,7,27.0,789.0,481.0,58.0,71.0,14.0,13.0,18218818.0
+162,Devonte' Graham,Pelicans,Guard,6-1,195,USA,1995-02-22T00:00:00,4,34,,,,,,,,11000000.0
+163,Jerami Grant,Trail Blazers,Forward,6-8,210,USA,1994-03-12T00:00:00,8,39,,,,,,,,20000000.0
+164,Danny Green,Grizzlies,Guard,6-6,215,USA,1987-06-22T00:00:00,13,46,,,,,,,,10000000.0
+165,Draymond Green,Warriors,Forward,6-6,230,USA,1990-03-04T00:00:00,10,35,63.0,1982.0,444.0,448.0,558.0,105.0,52.0,24026712.0
+166,JaMychal Green,Warriors,Forward-Center,6-8,227,USA,1990-06-21T00:00:00,8,Undrafted,,,,,,,,8292683.0
+167,Jalen Green,Rockets,Guard,6-4,186,USA,2002-02-09T00:00:00,1,2,,,,,,,,8992200.0
+168,Javonte Green,Bulls,Guard-Forward,6-5,205,USA,1993-07-23T00:00:00,3,Undrafted,16.0,128.0,41.0,19.0,6.0,10.0,4.0,1669178.0
+169,Jeff Green,Nuggets,Forward,6-8,235,USA,1986-08-28T00:00:00,14,5,,,,,,,,4500000.0
+170,Josh Green,Mavericks,Guard,6-5,200,Australia,2000-11-16T00:00:00,2,18,39.0,445.0,101.0,78.0,28.0,16.0,3.0,2957520.0
+171,Blake Griffin,Nets,Forward,6-9,250,USA,1989-03-16T00:00:00,12,1,26.0,560.0,260.0,121.0,63.0,18.0,13.0,32405817.0
+172,Quentin Grimes,Knicks,Guard,6-4,210,USA,2000-05-08T00:00:00,1,25,,,,,,,,2168760.0
+173,Rui Hachimura,Wizards,Forward,6-8,230,Japan,1998-02-08T00:00:00,3,9,57.0,1797.0,789.0,312.0,82.0,44.0,7.0,4916160.0
+174,Tyrese Haliburton,Pacers,Guard,6-5,185,USA,2000-02-29T00:00:00,2,12,,,,,,,,4023600.0
+175,R.J. Hampton,Magic,Guard,6-4,175,USA,2001-02-07T00:00:00,2,24,26.0,655.0,290.0,129.0,73.0,16.0,8.0,2303040.0
+176,Tim Hardaway Jr.,Mavericks,Guard-Forward,6-5,205,USA,1992-03-16T00:00:00,9,24,70.0,1985.0,1163.0,229.0,126.0,31.0,11.0,21306816.0
+177,James Harden,76ers,Guard,6-5,220,USA,1989-08-26T00:00:00,13,3,,,,,,,,43848000.0
+178,Maurice Harkless,Hawks,Forward-Guard,6-7,220,USA,1993-05-11T00:00:00,10,15,,,,,,,,4347600.0
+179,Jared Harper,Pelicans,Guard,5-10,175,USA,1997-09-14T00:00:00,3,Undrafted,,,,,,,,
+180,Montrezl Harrell,76ers,Forward-Center,6-7,240,USA,1994-01-26T00:00:00,7,32,,,,,,,,9720900.0
+181,Gary Harris,Magic,Guard,6-4,210,USA,1994-09-14T00:00:00,8,19,20.0,499.0,204.0,32.0,46.0,11.0,7.0,20482143.0
+182,Joe Harris,Nets,Guard-Forward,6-6,220,USA,1991-09-06T00:00:00,8,33,69.0,2142.0,974.0,248.0,130.0,46.0,14.0,17357143.0
+183,Tobias Harris,76ers,Forward,6-7,226,USA,1992-07-15T00:00:00,11,19,62.0,2014.0,1210.0,419.0,220.0,55.0,51.0,36000000.0
+184,Josh Hart,Trail Blazers,Guard,6-5,215,USA,1995-03-06T00:00:00,5,30,,,,,,,,12000000.0
+185,Isaiah Hartenstein,Knicks,Center-Forward,7-0,250,Germany,1998-05-05T00:00:00,4,43,,,,,,,,3430810.0
+186,Udonis Haslem,Heat,Forward,6-8,235,USA,1980-06-09T00:00:00,19,Undrafted,1.0,3.0,4.0,1.0,0.0,0.0,0.0,2641691.0
+187,Sam Hauser,Celtics,Forward,6-7,217,USA,1997-12-08T00:00:00,1,Undrafted,,,,,,,,313737.0
+188,Jaxson Hayes,Pelicans,Center-Forward,6-11,220,USA,2000-05-23T00:00:00,3,8,60.0,964.0,449.0,257.0,35.0,25.0,38.0,5348280.0
+189,Killian Hayes,Pistons,Guard,6-5,195,France,2001-07-27T00:00:00,2,7,26.0,670.0,176.0,69.0,138.0,27.0,10.0,5572680.0
+190,Gordon Hayward,Hornets,Forward,6-7,225,USA,1990-03-23T00:00:00,12,9,44.0,1496.0,863.0,258.0,181.0,52.0,14.0,29900000.0
+191,Juancho Hernangomez,Raptors,Forward,6-9,214,Spain,1995-09-28T00:00:00,6,15,,,,,,,,6175440.0
+192,Willy Hernangomez,Pelicans,Center-Forward,6-11,250,Spain,1994-05-27T00:00:00,6,35,47.0,846.0,365.0,334.0,50.0,22.0,23.0,2327220.0
+193,Tyler Herro,Heat,Guard,6-5,195,USA,2000-01-20T00:00:00,3,13,54.0,1635.0,815.0,268.0,184.0,35.0,17.0,4004280.0
+194,Buddy Hield,Pacers,Guard,6-4,220,Bahamas,1992-12-17T00:00:00,6,6,,,,,,,,22477273.0
+195,Haywood Highsmith,Heat,Forward,6-4,220,USA,1996-12-09T00:00:00,2,,,,,,,,,85578.0
+196,George Hill,Bucks,Guard,6-4,188,USA,1986-05-04T00:00:00,14,26,,,,,,,,4000000.0
+197,Malcolm Hill,Bulls,Forward,6-6,220,USA,1995-10-26T00:00:00,1,Undrafted,,,,,,,,
+198,Nate Hinton,Pacers,Guard-Forward,6-5,210,USA,1999-06-08T00:00:00,3,Undrafted,,,,,,,,
+199,Aaron Holiday,Hawks,Guard,6-0,185,USA,1996-09-30T00:00:00,4,23,,,,,,,,3980551.0
+200,Jrue Holiday,Bucks,Guard,6-3,205,USA,1990-06-12T00:00:00,13,17,59.0,1907.0,1046.0,268.0,357.0,96.0,37.0,30133333.0
+201,Justin Holiday,Hawks,Forward-Guard,6-6,180,USA,1989-04-05T00:00:00,9,Undrafted,,,,,,,,6006420.0
+202,Richaun Holmes,Kings,Forward,6-10,235,USA,1993-10-15T00:00:00,7,37,61.0,1781.0,869.0,504.0,101.0,39.0,96.0,10384500.0
+203,Rodney Hood,Clippers,Guard-Forward,6-8,208,USA,1992-10-20T00:00:00,8,23,,,,,,,,2239544.0
+204,Al Horford,Celtics,Center-Forward,6-9,240,Dominican Republic,1986-06-03T00:00:00,15,3,,,,,,,,27000000.0
+205,Talen Horton-Tucker,Jazz,Guard,6-4,234,USA,2000-11-25T00:00:00,3,46,,,,,,,,9500000.0
+206,Danuel House Jr.,76ers,Forward-Guard,6-6,220,USA,1993-06-07T00:00:00,6,Undrafted,,,,,,,,2045094.0
+207,Dwight Howard,Lakers,Center-Forward,6-10,265,USA,1985-12-08T00:00:00,18,1,,,,,,,,2641691.0
+208,Markus Howard,Nuggets,Guard,5-10,175,USA,1999-03-03T00:00:00,3,Undrafted,37.0,205.0,105.0,21.0,18.0,4.0,1.0,
+209,Kevin Huerter,Kings,Guard-Forward,6-7,198,USA,1998-08-27T00:00:00,4,19,,,,,,,,4253357.0
+210,Elijah Hughes,Trail Blazers,Guard,6-5,215,USA,1998-03-10T00:00:00,2,39,,,,,,,,1517981.0
+211,Feron Hunt,Knicks,Forward,6-8,195,USA,1999-07-05T00:00:00,1,Undrafted,,,,,,,,
+212,De'Andre Hunter,Hawks,Forward-Guard,6-8,221,USA,1997-12-02T00:00:00,3,4,23.0,678.0,344.0,110.0,44.0,19.0,12.0,7775400.0
+213,Bones Hyland,Nuggets,Guard,6-2,169,USA,2000-09-14T00:00:00,1,26,,,,,,,,2096880.0
+214,Serge Ibaka,Bucks,Forward,6-10,235,Republic of the Congo,1989-09-18T00:00:00,13,24,,,,,,,,9742000.0
+215,Andre Iguodala,Warriors,Guard-Forward,6-6,215,USA,1984-01-28T00:00:00,18,9,,,,,,,,2641691.0
+216,Joe Ingles,Bucks,Forward-Guard,6-8,220,Australia,1987-10-02T00:00:00,8,Undrafted,,,,,,,,14000000.0
+217,Brandon Ingram,Pelicans,Forward,6-8,190,USA,1997-09-02T00:00:00,6,2,61.0,2092.0,1450.0,299.0,296.0,42.0,36.0,29467800.0
+218,Kyrie Irving,Nets,Guard,6-2,195,Australia,1992-03-23T00:00:00,11,1,54.0,1886.0,1451.0,257.0,324.0,76.0,37.0,34916200.0
+219,Jonathan Isaac,Magic,Forward,6-10,230,USA,1997-10-03T00:00:00,3,6,,,,,,,,17400000.0
+220,Frank Jackson,Pistons,Guard,6-3,205,USA,1998-05-04T00:00:00,4,31,40.0,738.0,390.0,86.0,36.0,15.0,1.0,3000000.0
+221,Isaiah Jackson,Pacers,Forward,6-10,205,USA,2002-01-10T00:00:00,1,22,,,,,,,,2451120.0
+222,Josh Jackson,Raptors,Guard-Forward,6-8,207,USA,1997-02-10T00:00:00,5,4,,,,,,,,5005350.0
+223,Reggie Jackson,Clippers,Guard,6-2,208,USA,1990-04-16T00:00:00,11,24,67.0,1544.0,715.0,192.0,205.0,41.0,7.0,10384500.0
+224,Jaren Jackson Jr.,Grizzlies,Forward-Center,6-11,242,USA,1999-09-15T00:00:00,4,4,11.0,258.0,158.0,62.0,12.0,12.0,18.0,9180560.0
+225,LeBron James,Lakers,Forward,6-9,250,USA,1984-12-30T00:00:00,19,1,45.0,1504.0,1126.0,346.0,350.0,48.0,25.0,41180544.0
+226,Ty Jerome,Thunder,Guard-Forward,6-5,195,USA,1997-07-08T00:00:00,3,24,33.0,788.0,353.0,91.0,120.0,20.0,6.0,2412840.0
+227,Isaiah Joe,76ers,Guard,6-4,165,USA,1999-07-02T00:00:00,2,49,41.0,383.0,153.0,36.0,20.0,12.0,4.0,1517981.0
+228,Cameron Johnson,Suns,Forward,6-8,210,USA,1996-03-03T00:00:00,3,11,60.0,1437.0,573.0,199.0,86.0,37.0,16.0,4437000.0
+229,David Johnson,Raptors,Guard,6-4,203,USA,2001-02-26T00:00:00,1,47,,,,,,,,
+230,Jalen Johnson,Hawks,Forward,6-8,219,USA,2001-12-18T00:00:00,1,20,,,,,,,,2659560.0
+231,Keldon Johnson,Spurs,Forward-Guard,6-6,220,USA,1999-10-11T00:00:00,3,29,69.0,1968.0,881.0,412.0,121.0,40.0,24.0,2145720.0
+232,Keon Johnson,Trail Blazers,Guard,6-4,185,USA,2002-03-10T00:00:00,1,21,,,,,,,,2553120.0
+233,Stanley Johnson,Jazz,Forward-Guard,6-6,242,USA,1996-05-29T00:00:00,7,8,,,,,,,,888616.0
+234,Nikola Jokic,Nuggets,Center,6-11,284,Serbia,1995-02-19T00:00:00,7,41,72.0,2488.0,1898.0,780.0,599.0,95.0,48.0,30510423.0
+235,Damian Jones,Lakers,Center,6-11,245,USA,1995-06-30T00:00:00,6,30,8.0,112.0,43.0,26.0,1.0,1.0,7.0,1977011.0
+236,Herbert Jones,Pelicans,Forward,6-7,206,USA,1998-10-06T00:00:00,1,35,,,,,,,,1700000.0
+237,Kai Jones,Hornets,Center-Forward,6-10,221,Bahamas,2001-01-19T00:00:00,1,19,,,,,,,,2770560.0
+238,Mason Jones,Lakers,Guard,6-4,200,USA,1998-07-21T00:00:00,3,Undrafted,,,,,,,,
+239,Tre Jones,Spurs,Guard,6-1,185,USA,2000-01-08T00:00:00,2,41,37.0,269.0,94.0,21.0,39.0,8.0,0.0,1517981.0
+240,Tyus Jones,Grizzlies,Guard,6-0,196,USA,1996-05-10T00:00:00,7,24,70.0,1223.0,442.0,140.0,259.0,64.0,6.0,7522200.0
+241,Derrick Jones Jr.,Bulls,Forward,6-6,210,USA,1997-02-15T00:00:00,6,Undrafted,,,,,,,,9720900.0
+242,DeAndre Jordan,Nuggets,Center,6-11,265,USA,1988-07-21T00:00:00,14,35,,,,,,,,10517224.0
+243,Cory Joseph,Pistons,Guard,6-3,200,Canada,1991-08-20T00:00:00,11,29,19.0,502.0,228.0,60.0,105.0,22.0,9.0,7310000.0
+244,Luke Kennard,Clippers,Guard,6-5,206,USA,1996-06-24T00:00:00,5,12,63.0,1232.0,520.0,161.0,104.0,23.0,9.0,12727273.0
+245,Braxton Key,Pistons,Forward,6-8,225,USA,1997-02-14T00:00:00,1,Undrafted,,,,,,,,
+246,Corey Kispert,Wizards,Forward,6-6,224,USA,1999-03-03T00:00:00,1,15,,,,,,,,3383640.0
+247,Maxi Kleber,Mavericks,Forward,6-10,240,Germany,1992-01-29T00:00:00,5,Undrafted,50.0,1341.0,353.0,260.0,68.0,24.0,35.0,8750000.0
+248,Nathan Knight,Timberwolves,Forward-Center,6-10,253,USA,1997-09-20T00:00:00,2,Undrafted,,,,,,,,
+249,Kevin Knox II,Pistons,Forward,6-7,215,USA,1999-08-11T00:00:00,4,9,,,,,,,,5845978.0
+250,John Konchar,Grizzlies,Guard,6-5,210,USA,1996-03-22T00:00:00,3,Undrafted,43.0,575.0,184.0,128.0,47.0,30.0,9.0,2197674.0
+251,Furkan Korkmaz,76ers,Guard-Forward,6-7,202,Turkey,1997-07-24T00:00:00,5,26,55.0,1062.0,501.0,113.0,82.0,49.0,9.0,4629630.0
+252,Luke Kornet,Celtics,Center-Forward,7-2,250,USA,1995-07-15T00:00:00,5,Undrafted,18.0,254.0,80.0,52.0,20.0,2.0,25.0,606702.0
+253,Vit Krejci,Thunder,Guard,6-8,195,Czech Republic,2000-06-19T00:00:00,1,37,,,,,,,,925258.0
+254,Arnoldas Kulboka,Hornets,Forward,6-10,209,Lithuania,1998-01-04T00:00:00,1,55,,,,,,,,
+255,Jonathan Kuminga,Warriors,Forward,6-7,225,DRC,2002-10-06T00:00:00,1,7,,,,,,,,5466360.0
+256,Kyle Kuzma,Wizards,Forward,6-9,221,USA,1995-07-24T00:00:00,5,27,,,,,,,,13000000.0
+257,Zach LaVine,Bulls,Guard-Forward,6-5,200,USA,1995-03-10T00:00:00,8,13,58.0,2034.0,1591.0,289.0,282.0,46.0,27.0,19500000.0
+258,Anthony Lamb,Rockets,Forward,6-6,227,USA,1998-01-20T00:00:00,2,Undrafted,24.0,415.0,133.0,70.0,23.0,6.0,5.0,
+259,Jeremy Lamb,Kings,Guard-Forward,6-5,180,USA,1992-05-30T00:00:00,10,12,,,,,,,,10500000.0
+260,Jock Landale,Suns,Center,6-11,255,Australia,1995-10-25T00:00:00,1,Undrafted,,,,,,,,925258.0
+261,Romeo Langford,Spurs,Guard-Forward,6-5,216,USA,1999-10-25T00:00:00,3,14,,,,,,,,3804360.0
+262,Jake Layman,Celtics,Forward,6-8,209,USA,1994-03-07T00:00:00,6,47,,,,,,,,3940184.0
+263,Caris LeVert,Cavaliers,Guard,6-6,205,USA,1994-08-25T00:00:00,6,20,,,,,,,,17500000.0
+264,Damion Lee,Suns,Guard-Forward,6-5,210,USA,1992-10-21T00:00:00,5,Undrafted,,,,,,,,1910860.0
+265,Saben Lee,Pistons,Guard,6-2,183,USA,1999-06-23T00:00:00,2,38,48.0,781.0,267.0,97.0,174.0,32.0,13.0,1489065.0
+266,Alex Len,Kings,Center,7-0,250,Ukraine,1993-06-16T00:00:00,9,5,,,,,,,,3731707.0
+267,Kawhi Leonard,Clippers,Forward,6-7,225,USA,1991-06-29T00:00:00,10,15,52.0,1772.0,1292.0,337.0,269.0,81.0,21.0,39344900.0
+268,Scottie Lewis,Hornets,Guard,6-5,185,USA,2000-03-12T00:00:00,1,56,,,,,,,,
+269,Kira Lewis Jr.,Pelicans,Guard,6-1,170,USA,2001-04-06T00:00:00,2,13,54.0,904.0,343.0,71.0,124.0,38.0,10.0,3822240.0
+270,Damian Lillard,Trail Blazers,Guard,6-2,195,USA,1990-07-15T00:00:00,10,6,67.0,2398.0,1928.0,283.0,505.0,62.0,17.0,39344900.0
+271,Nassir Little,Trail Blazers,Forward-Guard,6-5,220,USA,2000-02-11T00:00:00,3,25,48.0,640.0,220.0,128.0,23.0,5.0,13.0,2316240.0
+272,Isaiah Livers,Pistons,Forward,6-6,232,USA,1998-07-28T00:00:00,1,42,,,,,,,,1057260.0
+273,Kevon Looney,Warriors,Forward,6-9,222,USA,1996-02-06T00:00:00,7,30,61.0,1161.0,251.0,322.0,119.0,21.0,22.0,5178572.0
+274,Brook Lopez,Bucks,Center,7-0,282,USA,1988-04-01T00:00:00,14,10,70.0,1902.0,859.0,347.0,50.0,40.0,103.0,13302325.0
+275,Robin Lopez,Cavaliers,Center,7-0,281,USA,1988-04-01T00:00:00,14,15,,,,,,,,5000000.0
+276,Didi Louzada,Trail Blazers,Guard,6-5,188,Brazil,1999-07-02T00:00:00,3,35,,,,,,,,1786878.0
+277,Kevin Love,Cavaliers,Forward-Center,6-8,251,USA,1988-09-07T00:00:00,14,5,25.0,622.0,305.0,186.0,63.0,16.0,2.0,31300000.0
+278,Kyle Lowry,Heat,Guard,6-0,196,USA,1986-03-25T00:00:00,16,24,,,,,,,,26984128.0
+279,Gabriel Lundberg,Suns,Guard,6-4,203,Denmark,1994-12-04T00:00:00,1,Undrafted,,,,,,,,
+280,Timothe Luwawu-Cabarrot,Hawks,Guard-Forward,6-7,215,France,1995-05-09T00:00:00,6,24,,,,,,,,1939350.0
+281,Trey Lyles,Kings,Forward,6-9,234,Canada,1995-11-05T00:00:00,7,12,,,,,,,,2500000.0
+282,Theo Maledon,Thunder,Guard,6-4,175,France,2001-06-12T00:00:00,2,34,65.0,1778.0,658.0,211.0,227.0,56.0,11.0,2000000.0
+283,Sandro Mamukelashvili,Bucks,Forward-Center,6-9,240,Georgia,1999-05-23T00:00:00,1,54,,,,,,,,
+284,Terance Mann,Clippers,Guard-Forward,6-5,215,USA,1996-10-18T00:00:00,3,48,67.0,1263.0,472.0,242.0,104.0,29.0,13.0,1782621.0
+285,Tre Mann,Thunder,Guard,6-3,178,USA,2001-02-03T00:00:00,1,18,,,,,,,,2901240.0
+286,Boban Marjanovic,Rockets,Center,7-3,290,Serbia,1988-08-15T00:00:00,7,Undrafted,,,,,,,,3500000.0
+287,Lauri Markkanen,Jazz,Forward-Center,6-11,240,Finland,1997-05-22T00:00:00,5,7,,,,,,,,15690909.0
+288,Naji Marshall,Pelicans,Forward,6-7,220,USA,1998-01-24T00:00:00,2,Undrafted,32.0,700.0,246.0,148.0,88.0,26.0,10.0,1517981.0
+289,Caleb Martin,Heat,Forward,6-5,205,USA,1995-09-28T00:00:00,3,Undrafted,,,,,,,,527614.0
+290,Cody Martin,Hornets,Forward,6-6,205,USA,1995-09-28T00:00:00,3,36,52.0,849.0,207.0,161.0,86.0,37.0,12.0,1782621.0
+291,Kenyon Martin Jr.,Rockets,Forward,6-5,215,USA,2001-01-06T00:00:00,2,52,45.0,1068.0,419.0,242.0,48.0,30.0,41.0,1517981.0
+292,Garrison Mathews,Rockets,Guard,6-5,215,USA,1996-10-24T00:00:00,3,Undrafted,,,,,,,,1093598.0
+293,Wesley Matthews,Bucks,Guard,6-4,220,USA,1986-10-14T00:00:00,13,Undrafted,,,,,,,,1958501.0
+294,Tyrese Maxey,76ers,Guard,6-2,200,USA,2000-11-04T00:00:00,2,21,61.0,936.0,488.0,104.0,120.0,26.0,13.0,2602920.0
+295,Skylar Mays,Hawks,Guard,6-4,205,USA,1997-09-05T00:00:00,2,50,33.0,269.0,124.0,35.0,30.0,14.0,2.0,
+296,Miles McBride,Knicks,Guard,6-1,195,USA,2000-09-08T00:00:00,1,36,,,,,,,,925258.0
+297,Mac McClung,Warriors,Guard,6-2,185,USA,1999-01-06T00:00:00,1,Undrafted,,,,,,,,
+298,CJ McCollum,Pelicans,Guard,6-3,190,USA,1991-09-19T00:00:00,9,10,,,,,,,,30864198.0
+299,T.J. McConnell,Pacers,Guard,6-1,190,USA,1992-03-25T00:00:00,7,,69.0,1796.0,596.0,256.0,456.0,128.0,23.0,7500000.0
+300,Jaden McDaniels,Timberwolves,Forward,6-9,185,USA,2000-09-29T00:00:00,2,28,63.0,1511.0,427.0,232.0,71.0,35.0,60.0,2063280.0
+301,Jalen McDaniels,Hornets,Forward-Center,6-9,205,USA,1998-01-31T00:00:00,3,52,47.0,904.0,346.0,169.0,53.0,28.0,19.0,1782621.0
+302,Doug McDermott,Spurs,Forward,6-7,225,USA,1992-01-03T00:00:00,8,11,,,,,,,,13750000.0
+303,JaVale McGee,Mavericks,Center-Forward,7-0,270,USA,1988-01-19T00:00:00,14,18,,,,,,,,5000000.0
+304,Rodney McGruder,Pistons,Guard,6-4,205,USA,1991-07-29T00:00:00,6,Undrafted,16.0,194.0,91.0,22.0,16.0,8.0,1.0,1939350.0
+305,Jordan McLaughlin,Timberwolves,Guard,5-11,185,USA,1996-04-09T00:00:00,3,Undrafted,51.0,938.0,256.0,108.0,193.0,51.0,6.0,1669178.0
+306,Ben McLemore,Trail Blazers,Guard,6-3,195,USA,1993-02-11T00:00:00,9,7,,,,,,,,2389641.0
+307,De'Anthony Melton,76ers,Guard,6-2,200,USA,1998-05-28T00:00:00,4,46,,,,,,,,8437500.0
+308,Chimezie Metu,Kings,Forward-Center,6-9,225,USA,1997-03-22T00:00:00,4,49,36.0,488.0,226.0,112.0,28.0,14.0,18.0,1762796.0
+309,Khris Middleton,Bucks,Forward,6-7,222,USA,1991-08-12T00:00:00,10,39,68.0,2269.0,1385.0,406.0,370.0,74.0,9.0,35500000.0
+310,Patty Mills,Nets,Guard,6-0,180,Australia,1988-08-11T00:00:00,13,55,,,,,,,,5890000.0
+311,Paul Millsap,76ers,Forward,6-7,257,USA,1985-02-10T00:00:00,16,47,,,,,,,,2641691.0
+312,Shake Milton,76ers,Guard-Forward,6-5,205,USA,1996-09-26T00:00:00,4,54,63.0,1461.0,817.0,148.0,193.0,39.0,18.0,1846738.0
+313,Davion Mitchell,Kings,Guard,6-0,202,USA,1998-09-05T00:00:00,1,9,,,,,,,,4603320.0
+314,Donovan Mitchell,Cavaliers,Guard,6-1,215,USA,1996-09-07T00:00:00,5,13,,,,,,,,28103550.0
+315,Evan Mobley,Cavaliers,Center,6-11,215,USA,2001-06-18T00:00:00,1,3,,,,,,,,8075160.0
+316,Malik Monk,Kings,Guard,6-3,200,USA,1998-02-04T00:00:00,5,11,,,,,,,,1789256.0
+317,Greg Monroe,Timberwolves,Forward-Center,6-10,250,USA,1990-06-04T00:00:00,10,7,,,,,,,,
+318,Moses Moody,Warriors,Guard,6-5,211,USA,2002-05-31T00:00:00,1,14,,,,,,,,3562080.0
+319,Xavier Moon,Clippers,Guard,6-2,165,USA,1995-01-02T00:00:00,1,Undrafted,,,,,,,,
+320,Ja Morant,Grizzlies,Guard,6-3,174,USA,1999-08-10T00:00:00,3,2,63.0,2053.0,1204.0,252.0,465.0,57.0,13.0,9603360.0
+321,Juwan Morgan,Celtics,Forward,6-7,232,USA,1997-04-17T00:00:00,4,Undrafted,,,,,,,,
+322,Markieff Morris,Nets,Forward,6-9,245,USA,1989-09-02T00:00:00,11,13,,,,,,,,2641691.0
+323,Monte Morris,Wizards,Guard,6-2,183,USA,1995-06-27T00:00:00,5,51,,,,,,,,8333333.0
+324,Marcus Morris Sr.,Clippers,Forward,6-8,218,USA,1989-09-02T00:00:00,11,14,57.0,1502.0,765.0,234.0,58.0,34.0,15.0,15627907.0
+325,Mychal Mulder,Heat,Guard,6-3,195,Canada,1994-06-12T00:00:00,4,Undrafted,,,,,,,,
+326,Trey Murphy III,Pelicans,Forward,6-8,206,USA,2000-06-18T00:00:00,1,17,,,,,,,,3053760.0
+327,Dejounte Murray,Hawks,Guard,6-4,180,USA,1996-09-19T00:00:00,5,29,,,,,,,,15428571.0
+328,Jamal Murray,Nuggets,Guard,6-3,215,Canada,1997-02-23T00:00:00,5,7,48.0,1704.0,1018.0,194.0,231.0,64.0,13.0,31590000.0
+329,Mike Muscala,Thunder,Forward-Center,6-10,240,USA,1991-07-01T00:00:00,9,44,35.0,645.0,339.0,132.0,28.0,8.0,11.0,3500000.0
+330,Svi Mykhailiuk,Raptors,Guard-Forward,6-7,205,Ukraine,1997-06-10T00:00:00,5,47,,,,,,,,1729217.0
+331,Larry Nance Jr.,Pelicans,Forward-Center,6-7,245,USA,1993-01-01T00:00:00,7,27,,,,,,,,10690909.0
+332,RJ Nembhard Jr.,Cavaliers,Guard,6-4,200,USA,1999-03-22T00:00:00,1,Undrafted,,,,,,,,
+333,Aaron Nesmith,Pacers,Guard-Forward,6-5,215,USA,1999-10-16T00:00:00,2,14,,,,,,,,3631200.0
+334,Raul Neto,Cavaliers,Guard,6-2,180,Brazil,1992-05-19T00:00:00,7,47,,,,,,,,2089448.0
+335,Georges Niang,76ers,Forward,6-7,230,USA,1993-06-17T00:00:00,6,50,,,,,,,,3300000.0
+336,Daishen Nix,Rockets,Guard,6-4,226,USA,2002-02-13T00:00:00,1,Undrafted,,,,,,,,292466.0
+337,Zeke Nnaji,Nuggets,Forward-Center,6-9,240,USA,2001-01-09T00:00:00,2,22,42.0,397.0,136.0,65.0,10.0,8.0,4.0,2498760.0
+338,Nerlens Noel,Pistons,Center-Forward,6-11,220,USA,1994-04-10T00:00:00,8,6,,,,,,,,8800000.0
+339,Jaylen Nowell,Timberwolves,Guard,6-4,201,USA,1999-07-09T00:00:00,3,43,42.0,759.0,379.0,95.0,62.0,22.0,12.0,1782621.0
+340,Frank Ntilikina,Mavericks,Guard,6-4,200,France,1998-07-28T00:00:00,5,8,,,,,,,,1789256.0
+341,Kendrick Nunn,Lakers,Guard,6-2,190,USA,1995-08-03T00:00:00,2,Undrafted,,,,,,,,5000000.0
+342,Jusuf Nurkic,Trail Blazers,Center,6-11,290,Bosnia and Herzegovina,1994-08-23T00:00:00,8,16,37.0,880.0,424.0,332.0,125.0,38.0,39.0,12000000.0
+343,David Nwaba,Rockets,Guard-Forward,6-5,219,USA,1993-01-14T00:00:00,6,Undrafted,30.0,679.0,276.0,118.0,31.0,30.0,21.0,4650000.0
+344,Jordan Nwora,Bucks,Forward,6-8,225,USA,1998-09-09T00:00:00,2,45,30.0,274.0,171.0,60.0,7.0,17.0,8.0,1517981.0
+345,Royce O'Neale,Nets,Forward,6-5,226,USA,1993-06-05T00:00:00,5,Undrafted,,,,,,,,8678571.0
+346,Chuma Okeke,Magic,Forward,6-6,229,USA,1998-08-18T00:00:00,2,16,45.0,1133.0,349.0,181.0,101.0,48.0,22.0,3277080.0
+347,Josh Okogie,Suns,Guard,6-4,213,Nigeria,1998-09-01T00:00:00,4,20,,,,,,,,4087904.0
+348,Onyeka Okongwu,Hawks,Forward-Center,6-8,240,USA,2000-12-11T00:00:00,2,6,50.0,601.0,228.0,163.0,18.0,23.0,33.0,6104280.0
+349,Isaac Okoro,Cavaliers,Forward-Guard,6-5,225,USA,2001-01-26T00:00:00,2,5,67.0,2173.0,646.0,206.0,128.0,62.0,24.0,6720720.0
+350,Victor Oladipo,Heat,Guard,6-4,213,USA,1992-05-04T00:00:00,9,2,4.0,111.0,48.0,14.0,14.0,7.0,2.0,2389641.0
+351,Kelly Olynyk,Pistons,Forward-Center,6-11,240,Canada,1991-04-19T00:00:00,9,13,,,,,,,,12195122.0
+352,Cedi Osman,Cavaliers,Forward,6-7,230,Turkey,1995-04-08T00:00:00,5,31,59.0,1511.0,613.0,201.0,174.0,53.0,9.0,8050000.0
+353,Kelly Oubre Jr.,Hornets,Forward-Guard,6-6,203,USA,1995-12-09T00:00:00,7,15,,,,,,,,12000000.0
+354,Eric Paschall,Timberwolves,Forward,6-6,255,USA,1996-11-04T00:00:00,3,41,,,,,,,,1782621.0
+355,Chris Paul,Suns,Guard,6-0,175,USA,1985-05-06T00:00:00,17,4,70.0,2200.0,1149.0,312.0,622.0,99.0,19.0,30800000.0
+356,Cameron Payne,Suns,Guard,6-1,183,USA,1994-08-08T00:00:00,7,14,60.0,1079.0,505.0,144.0,217.0,36.0,16.0,6500000.0
+357,Elfrid Payton,Suns,Guard,6-3,195,USA,1994-02-22T00:00:00,8,10,,,,,,,,2239544.0
+358,Gary Payton II,Trail Blazers,Guard,6-3,195,USA,1992-12-01T00:00:00,6,Undrafted,,,,,,,,1939350.0
+359,Jamorko Pickett,Cavaliers,Forward,6-9,206,USA,1997-12-24T00:00:00,1,Undrafted,,,,,,,,
+360,Theo Pinson,Mavericks,Guard-Forward,6-5,212,USA,1995-11-05T00:00:00,4,Undrafted,,,,,,,,
+361,Mason Plumlee,Hornets,Forward-Center,6-11,254,USA,1990-03-05T00:00:00,9,22,,,,,,,,8137500.0
+362,Jakob Poeltl,Spurs,Center,7-1,245,Austria,1995-10-15T00:00:00,6,9,69.0,1845.0,593.0,547.0,134.0,47.0,123.0,8750000.0
+363,Aleksej Pokusevski,Thunder,Forward,7-0,190,Serbia,2001-12-26T00:00:00,2,17,45.0,1090.0,367.0,212.0,97.0,20.0,42.0,3113160.0
+364,Yves Pons,Grizzlies,Forward,6-5,206,France,1999-05-07T00:00:00,1,Undrafted,,,,,,,,
+365,Jordan Poole,Warriors,Guard,6-4,194,USA,1999-06-19T00:00:00,3,28,51.0,988.0,612.0,92.0,99.0,26.0,9.0,2161440.0
+366,Kevin Porter Jr.,Rockets,Guard-Forward,6-4,203,USA,2000-05-04T00:00:00,3,30,26.0,836.0,431.0,99.0,164.0,19.0,8.0,2130240.0
+367,Michael Porter Jr.,Nuggets,Forward,6-10,218,USA,1998-06-29T00:00:00,3,14,61.0,1912.0,1162.0,445.0,70.0,40.0,54.0,5258735.0
+368,Otto Porter Jr.,Raptors,Forward,6-8,198,USA,1993-06-03T00:00:00,9,3,,,,,,,,2389641.0
+369,Bobby Portis,Bucks,Forward,6-10,250,USA,1995-02-10T00:00:00,7,22,66.0,1372.0,754.0,466.0,71.0,52.0,26.0,4347600.0
+370,Kristaps Porzingis,Wizards,Forward-Center,7-3,240,Latvia,1995-08-02T00:00:00,6,4,,,,,,,,31650600.0
+371,Dwight Powell,Mavericks,Forward-Center,6-10,240,Canada,1991-07-20T00:00:00,8,45,58.0,966.0,342.0,234.0,63.0,36.0,30.0,11000000.0
+372,Myles Powell,76ers,Guard,6-2,195,USA,1997-07-07T00:00:00,2,Undrafted,,,,,,,,
+373,Norman Powell,Clippers,Guard,6-3,215,USA,1993-05-25T00:00:00,7,46,,,,,,,,15517242.0
+374,Joshua Primo,Spurs,Guard,6-4,189,Canada,2002-12-24T00:00:00,1,12,,,,,,,,3946800.0
+375,Taurean Prince,Timberwolves,Forward,6-6,218,USA,1994-03-22T00:00:00,6,12,,,,,,,,15057692.0
+376,Payton Pritchard,Celtics,Guard,6-1,195,USA,1998-01-28T00:00:00,2,26,66.0,1268.0,510.0,158.0,120.0,37.0,9.0,2137440.0
+377,Trevelin Queen,76ers,Guard,6-6,190,USA,1997-02-25T00:00:00,1,Undrafted,,,,,,,,
+378,Neemias Queta,Kings,Center,7-0,248,Portugal,1999-07-13T00:00:00,1,39,,,,,,,,
+379,Immanuel Quickley,Knicks,Guard,6-3,190,USA,1999-06-17T00:00:00,2,25,64.0,1244.0,731.0,137.0,127.0,30.0,12.0,2210640.0
+380,Julius Randle,Knicks,Forward-Center,6-8,250,USA,1994-11-29T00:00:00,8,7,71.0,2667.0,1712.0,724.0,427.0,64.0,18.0,19800000.0
+381,Austin Reaves,Lakers,Guard,6-5,197,USA,1998-05-29T00:00:00,1,Undrafted,,,,,,,,925258.0
+382,Cam Reddish,Knicks,Forward-Guard,6-8,217,USA,1999-09-01T00:00:00,3,10,,,,,,,,4670160.0
+383,Davon Reed,Nuggets,Guard,6-5,206,USA,1995-06-11T00:00:00,3,32,,,,,,,,
+384,Paul Reed,76ers,Forward,6-9,210,USA,1999-06-14T00:00:00,2,58,26.0,177.0,88.0,61.0,12.0,10.0,13.0,1517981.0
+385,Naz Reid,Timberwolves,Center-Forward,6-9,264,USA,1999-08-26T00:00:00,3,Undrafted,70.0,1347.0,784.0,322.0,72.0,34.0,76.0,1782621.0
+386,Nick Richards,Hornets,Center,7-0,245,Jamaica,1997-11-29T00:00:00,2,42,18.0,63.0,15.0,11.0,2.0,0.0,0.0,1517981.0
+387,Josh Richardson,Spurs,Guard,6-5,200,USA,1993-09-15T00:00:00,7,40,,,,,,,,11600000.0
+388,Austin Rivers,Timberwolves,Guard,6-4,200,USA,1992-08-01T00:00:00,10,10,,,,,,,,2401537.0
+389,Duncan Robinson,Heat,Forward,6-7,215,USA,1994-04-22T00:00:00,4,Undrafted,72.0,2262.0,942.0,250.0,127.0,43.0,20.0,15560000.0
+390,Mitchell Robinson,Knicks,Center-Forward,7-0,240,USA,1998-04-01T00:00:00,4,36,31.0,853.0,256.0,252.0,17.0,35.0,45.0,1802057.0
+391,Jeremiah Robinson-Earl,Thunder,Forward,6-8,242,USA,2000-11-03T00:00:00,1,32,,,,,,,,2000000.0
+392,Isaiah Roby,Spurs,Forward,6-8,230,USA,1998-02-03T00:00:00,3,45,,,,,,,,1782621.0
+393,Rajon Rondo,Cavaliers,Guard,6-1,180,USA,1986-02-22T00:00:00,17,21,,,,,,,,2641691.0
+394,Derrick Rose,Knicks,Guard,6-2,200,USA,1988-10-04T00:00:00,13,1,35.0,937.0,521.0,101.0,146.0,31.0,15.0,13445120.0
+395,Terrence Ross,Magic,Guard-Forward,6-6,206,USA,1991-02-05T00:00:00,10,8,46.0,1347.0,717.0,158.0,108.0,47.0,21.0,12500000.0
+396,Terry Rozier,Hornets,Guard,6-1,190,USA,1994-03-17T00:00:00,7,16,69.0,2383.0,1407.0,302.0,293.0,87.0,26.0,17905263.0
+397,Ricky Rubio,Cavaliers,Guard,6-2,190,Spain,1990-10-21T00:00:00,11,5,,,,,,,,17809524.0
+398,D'Angelo Russell,Timberwolves,Guard,6-4,193,USA,1996-02-23T00:00:00,7,2,42.0,1196.0,796.0,111.0,244.0,45.0,18.0,30013500.0
+399,Matt Ryan,Celtics,Forward,6-7,215,USA,1997-04-17T00:00:00,1,Undrafted,,,,,,,,
+400,Domantas Sabonis,Kings,Forward-Center,6-11,240,Lithuania,1996-05-03T00:00:00,6,11,,,,,,,,18562500.0
+401,Dario Saric,Suns,Forward-Center,6-10,225,Croatia,1994-04-08T00:00:00,5,12,50.0,871.0,437.0,190.0,65.0,30.0,4.0,9000000.0
+402,Tomas Satoransky,Wizards,Guard,6-7,210,Czech Republic,1991-10-30T00:00:00,7,32,,,,,,,,10468119.0
+403,Jordan Schakel,Wizards,Guard,6-6,200,USA,1998-06-13T00:00:00,1,Undrafted,,,,,,,,
+404,Admiral Schofield,Magic,Forward,6-5,241,United Kingdom,1997-03-30T00:00:00,2,42,,,,,,,,
+405,Dennis Schroder,Rockets,Guard,6-1,172,Germany,1993-09-15T00:00:00,9,17,,,,,,,,5890000.0
+406,Jay Scrubb,Clippers,Guard,6-5,220,USA,2000-09-01T00:00:00,3,55,4.0,84.0,35.0,14.0,1.0,4.0,0.0,
+407,Alperen Sengun,Rockets,Center,6-10,243,Turkey,2002-07-25T00:00:00,1,16,,,,,,,,3214680.0
+408,Collin Sexton,Jazz,Guard,6-1,190,USA,1999-01-04T00:00:00,4,8,,,,,,,,6349671.0
+409,Landry Shamet,Suns,Guard,6-4,190,USA,1997-03-13T00:00:00,4,26,,,,,,,,3768342.0
+410,Day'Ron Sharpe,Nets,Center,6-9,265,USA,2001-11-06T00:00:00,1,29,,,,,,,,2009040.0
+411,Pascal Siakam,Raptors,Forward,6-8,230,Cameroon,1994-04-02T00:00:00,6,27,56.0,2006.0,1196.0,405.0,250.0,64.0,37.0,31320000.0
+412,Ben Simmons,Nets,Guard-Forward,6-11,240,Australia,1996-07-20T00:00:00,4,1,,,,,,,,31590000.0
+413,Marko Simonovic,Bulls,Center,6-11,220,Montenegro,1999-10-15T00:00:00,1,44,,,,,,,,925258.0
+414,Anfernee Simons,Trail Blazers,Guard,6-3,181,USA,1999-06-08T00:00:00,4,24,64.0,1104.0,502.0,140.0,89.0,18.0,8.0,3938818.0
+415,Jericho Sims,Knicks,Center,6-9,250,USA,1998-10-20T00:00:00,1,58,,,,,,,,
+416,Javonte Smart,Heat,Guard,6-4,205,USA,1999-06-03T00:00:00,2,Undrafted,,,,,,,,
+417,Marcus Smart,Celtics,Guard,6-4,220,USA,1994-03-06T00:00:00,8,6,48.0,1581.0,627.0,167.0,273.0,72.0,23.0,14339285.0
+418,Ish Smith,Nuggets,Guard,6-0,175,USA,1988-07-05T00:00:00,12,Undrafted,,,,,,,,4500000.0
+419,Jalen Smith,Pacers,Forward-Center,6-10,215,USA,2000-03-16T00:00:00,2,10,,,,,,,,4458000.0
+420,Xavier Sneed,Jazz,Forward,6-5,215,USA,1997-12-21T00:00:00,1,Undrafted,,,,,,,,1563518.0
+421,Tony Snell,Pelicans,Guard,6-6,213,USA,1991-11-10T00:00:00,9,20,,,,,,,,2389641.0
+422,Jaden Springer,76ers,Guard,6-4,202,USA,2002-09-25T00:00:00,1,28,,,,,,,,2023800.0
+423,Nik Stauskas,Celtics,Guard,6-6,207,Canada,1993-10-07T00:00:00,7,8,,,,,,,,
+424,Lance Stephenson,Pacers,Forward,6-5,210,USA,1990-09-05T00:00:00,11,40,,,,,,,,924730.0
+425,Lamar Stevens,Cavaliers,Forward,6-6,230,USA,1997-07-09T00:00:00,2,Undrafted,40.0,499.0,165.0,96.0,25.0,17.0,13.0,1517981.0
+426,Isaiah Stewart,Pistons,Forward-Center,6-8,250,USA,2001-05-22T00:00:00,2,16,68.0,1455.0,537.0,453.0,59.0,39.0,86.0,3277080.0
+427,Max Strus,Heat,Guard-Forward,6-5,215,USA,1996-03-28T00:00:00,3,Undrafted,39.0,507.0,236.0,41.0,24.0,11.0,2.0,1669178.0
+428,Jalen Suggs,Magic,Guard,6-5,205,USA,2001-06-03T00:00:00,1,5,,,,,,,,6593040.0
+429,Jae'Sean Tate,Rockets,Forward,6-4,230,USA,1995-10-28T00:00:00,2,Undrafted,70.0,2043.0,794.0,374.0,178.0,85.0,36.0,1517981.0
+430,Jayson Tatum,Celtics,Forward-Guard,6-8,210,USA,1998-03-03T00:00:00,5,3,64.0,2290.0,1692.0,472.0,276.0,75.0,31.0,28103550.0
+431,Terry Taylor,Pacers,Forward,6-5,230,USA,1999-09-23T00:00:00,1,Undrafted,,,,,,,,
+432,Garrett Temple,Pelicans,Guard-Forward,6-5,195,USA,1986-05-08T00:00:00,12,Undrafted,,,,,,,,4910000.0
+433,Tyrell Terry,Grizzlies,Guard,6-2,160,USA,2000-09-28T00:00:00,3,31,,,,,,,,1517981.0
+434,Daniel Theis,Pacers,Forward-Center,6-9,245,Germany,1992-04-04T00:00:00,5,Undrafted,,,,,,,,8372093.0
+435,Brodric Thomas,Celtics,Guard,6-5,185,USA,1997-01-28T00:00:00,2,Undrafted,,,,,,,,
+436,Cam Thomas,Nets,Guard,6-3,210,Japan,2001-10-13T00:00:00,1,27,,,,,,,,2036280.0
+437,Isaiah Thomas,Hornets,Guard,5-9,185,USA,1989-02-07T00:00:00,11,60,,,,,,,,
+438,Matt Thomas,Bulls,Guard,6-3,190,USA,1994-08-04T00:00:00,3,Undrafted,,,,,,,,1669178.0
+439,Klay Thompson,Warriors,Guard,6-6,220,USA,1990-02-08T00:00:00,9,11,,,,,,,,37980720.0
+440,Tristan Thompson,Bulls,Center-Forward,6-9,254,Canada,1991-03-13T00:00:00,11,4,,,,,,,,9720900.0
+441,JT Thor,Hornets,Forward,6-9,203,USA,2002-08-26T00:00:00,1,37,,,,,,,,1250000.0
+442,Matisse Thybulle,76ers,Guard-Forward,6-5,201,USA,1997-03-04T00:00:00,3,20,65.0,1298.0,255.0,124.0,63.0,105.0,71.0,2840160.0
+443,Killian Tillie,Grizzlies,Forward-Center,6-9,220,France,1998-03-05T00:00:00,2,Undrafted,18.0,182.0,57.0,24.0,8.0,5.0,8.0,2000000.0
+444,Xavier Tillman Sr.,Grizzlies,Forward,6-8,245,USA,1999-01-12T00:00:00,2,35,59.0,1085.0,390.0,256.0,75.0,44.0,33.0,1517981.0
+445,Isaiah Todd,Wizards,Forward,6-9,219,USA,2001-10-17T00:00:00,1,31,,,,,,,,1500000.0
+446,Obi Toppin,Knicks,Forward,6-9,220,USA,1998-03-04T00:00:00,2,8,62.0,683.0,253.0,138.0,29.0,17.0,15.0,5105160.0
+447,Juan Toscano-Anderson,Lakers,Forward,6-6,209,USA,1993-04-10T00:00:00,3,Undrafted,,,,,,,,1701593.0
+448,Karl-Anthony Towns,Timberwolves,Center-Forward,6-11,248,USA,1995-11-15T00:00:00,7,1,50.0,1689.0,1239.0,529.0,225.0,39.0,57.0,31610000.0
+449,Gary Trent Jr.,Raptors,Guard-Forward,6-5,209,USA,1999-01-18T00:00:00,4,37,17.0,540.0,275.0,61.0,22.0,19.0,4.0,16000000.0
+450,P.J. Tucker,76ers,Forward,6-5,245,USA,1985-05-05T00:00:00,11,35,,,,,,,,7000000.0
+451,Rayjon Tucker,Bucks,Guard,6-3,209,USA,1997-09-24T00:00:00,4,Undrafted,,,,,,,,
+452,Myles Turner,Pacers,Center-Forward,6-11,250,USA,1996-03-24T00:00:00,7,11,47.0,1455.0,592.0,306.0,48.0,40.0,159.0,18000000.0
+453,Jonas Valanciunas,Pelicans,Center,6-11,265,Lithuania,1992-05-06T00:00:00,10,5,,,,,,,,14000000.0
+454,Fred VanVleet,Raptors,Guard,6-1,197,USA,1994-02-25T00:00:00,6,Undrafted,52.0,1899.0,1019.0,220.0,328.0,87.0,37.0,19675926.0
+455,Jarred Vanderbilt,Jazz,Forward,6-9,214,USA,1999-04-03T00:00:00,4,41,,,,,,,,4259259.0
+456,Devin Vassell,Spurs,Guard-Forward,6-5,200,USA,2000-08-23T00:00:00,2,11,62.0,1056.0,341.0,174.0,56.0,43.0,18.0,4235160.0
+457,Gabe Vincent,Heat,Guard,6-3,200,USA,1996-06-14T00:00:00,3,Undrafted,50.0,655.0,242.0,56.0,67.0,21.0,2.0,1669178.0
+458,Nikola Vucevic,Bulls,Center,6-10,260,Montenegro,1990-10-24T00:00:00,11,16,26.0,848.0,559.0,300.0,102.0,23.0,20.0,24000000.0
+459,Dean Wade,Cavaliers,Forward-Center,6-9,228,USA,1996-11-20T00:00:00,3,Undrafted,63.0,1212.0,376.0,215.0,74.0,35.0,21.0,1782621.0
+460,Franz Wagner,Magic,Forward,6-10,220,Germany,2001-08-27T00:00:00,1,8,,,,,,,,5007840.0
+461,Moritz Wagner,Magic,Forward-Center,6-11,245,Germany,1997-04-26T00:00:00,4,25,11.0,286.0,121.0,54.0,12.0,4.0,9.0,1729217.0
+462,Ish Wainright,Suns,Forward,6-5,250,USA,1994-09-12T00:00:00,1,Undrafted,,,,,,,,
+463,Kemba Walker,Pistons,Guard,6-0,184,USA,1990-05-08T00:00:00,11,9,,,,,,,,8729020.0
+464,Lonnie Walker IV,Lakers,Guard-Forward,6-4,204,USA,1998-12-14T00:00:00,4,18,,,,,,,,4447896.0
+465,John Wall,Clippers,Guard,6-3,210,USA,1990-09-06T00:00:00,10,1,,,,,,,,44310840.0
+466,T.J. Warren,Nets,Forward,6-8,220,USA,1993-09-05T00:00:00,7,14,,,,,,,,12690000.0
+467,P.J. Washington,Hornets,Forward,6-7,230,USA,1998-08-23T00:00:00,3,12,64.0,1954.0,824.0,418.0,161.0,69.0,79.0,4215120.0
+468,Duane Washington Jr.,Suns,Guard,6-3,197,Germany,2000-03-24T00:00:00,1,Undrafted,,,,,,,,
+469,Yuta Watanabe,Nets,Guard-Forward,6-9,215,Japan,1994-10-13T00:00:00,4,Undrafted,,,,,,,,1762769.0
+470,Lindy Waters III,Thunder,Forward,6-6,215,USA,1997-07-28T00:00:00,1,Undrafted,,,,,,,,
+471,Trendon Watford,Trail Blazers,Forward,6-8,237,USA,2000-11-09T00:00:00,1,Undrafted,,,,,,,,260561.0
+472,Quinndary Weatherspoon,Warriors,Guard,6-3,205,USA,1996-09-10T00:00:00,3,49,,,,,,,,
+473,Russell Westbrook,Lakers,Guard,6-3,200,USA,1988-11-12T00:00:00,14,4,,,,,,,,44211146.0
+474,Coby White,Bulls,Guard,6-4,195,USA,2000-02-16T00:00:00,3,7,69.0,2156.0,1041.0,284.0,328.0,38.0,15.0,5837760.0
+475,Derrick White,Celtics,Guard,6-4,190,USA,1994-07-02T00:00:00,5,29,,,,,,,,15178571.0
+476,Hassan Whiteside,Jazz,Center,7-0,265,USA,1989-06-13T00:00:00,10,33,,,,,,,,2401537.0
+477,Joe Wieskamp,Spurs,Guard-Forward,6-6,205,USA,1999-08-23T00:00:00,1,41,,,,,,,,
+478,Aaron Wiggins,Thunder,Guard,6-4,190,USA,1999-01-02T00:00:00,1,55,,,,,,,,1000000.0
+479,Andrew Wiggins,Warriors,Forward,6-7,197,Canada,1995-02-23T00:00:00,8,1,71.0,2364.0,1320.0,347.0,167.0,67.0,70.0,31579390.0
+480,Lindell Wigginton,Bucks,Guard,6-1,189,Canada,1998-03-28T00:00:00,1,,,,,,,,,
+481,Brandon Williams,Trail Blazers,Guard,6-2,190,USA,1999-11-22T00:00:00,1,Undrafted,,,,,,,,
+482,Grant Williams,Celtics,Forward,6-6,236,USA,1998-11-30T00:00:00,3,22,63.0,1138.0,294.0,178.0,64.0,32.0,24.0,2617800.0
+483,Kenrich Williams,Thunder,Guard-Forward,6-6,210,USA,1994-12-02T00:00:00,4,Undrafted,66.0,1426.0,526.0,273.0,152.0,55.0,17.0,2000000.0
+484,Lou Williams,Hawks,Guard,6-2,175,USA,1986-10-27T00:00:00,17,45,24.0,505.0,239.0,50.0,81.0,8.0,2.0,5000000.0
+485,Patrick Williams,Bulls,Forward,6-7,215,USA,2001-08-26T00:00:00,2,4,71.0,1983.0,655.0,327.0,99.0,64.0,46.0,7422000.0
+486,Ziaire Williams,Grizzlies,Forward,6-9,185,USA,2001-09-12T00:00:00,1,10,,,,,,,,4373160.0
+487,Robert Williams III,Celtics,Center-Forward,6-9,237,USA,1997-10-17T00:00:00,4,27,52.0,985.0,417.0,358.0,94.0,43.0,91.0,3661976.0
+488,Zion Williamson,Pelicans,Forward,6-6,284,USA,2000-07-06T00:00:00,2,1,61.0,2026.0,1647.0,441.0,226.0,57.0,39.0,10733400.0
+489,Dylan Windler,Cavaliers,Guard-Forward,6-6,196,USA,1996-09-22T00:00:00,2,26,31.0,513.0,161.0,107.0,33.0,19.0,12.0,2239200.0
+490,Justise Winslow,Trail Blazers,Forward-Guard,6-6,222,USA,1996-03-26T00:00:00,7,10,,,,,,,,3902439.0
+491,Cassius Winston,Wizards,Guard,6-1,185,USA,1998-02-28T00:00:00,3,53,22.0,98.0,41.0,9.0,12.0,2.0,1.0,
+492,James Wiseman,Warriors,Center,7-0,240,USA,2001-03-31T00:00:00,1,2,39.0,836.0,448.0,226.0,26.0,11.0,36.0,9166800.0
+493,Christian Wood,Mavericks,Forward,6-9,214,USA,1995-09-27T00:00:00,6,Undrafted,,,,,,,,13666667.0
+494,Robert Woodard II,Spurs,Forward,6-6,235,USA,1999-09-22T00:00:00,2,40,,,,,,,,1517981.0
+495,Delon Wright,Wizards,Guard,6-5,185,USA,1992-04-26T00:00:00,7,20,,,,,,,,8526316.0
+496,Moses Wright,Mavericks,Forward,6-8,226,USA,1998-12-23T00:00:00,1,Undrafted,,,,,,,,
+497,McKinley Wright IV,Mavericks,Guard,5-11,192,USA,1998-10-25T00:00:00,1,Undrafted,,,,,,,,
+498,Gabe York,Pacers,Guard,6-3,190,USA,1993-08-02T00:00:00,2,Undrafted,,,,,,,,
+499,Thaddeus Young,Raptors,Forward,6-8,235,USA,1988-06-21T00:00:00,15,12,,,,,,,,14190000.0
+500,Trae Young,Hawks,Guard,6-1,164,USA,1998-09-19T00:00:00,4,5,63.0,2125.0,1594.0,245.0,594.0,53.0,12.0,8326471.0
+501,Omer Yurtseven,Heat,Center,6-11,275,Turkey,1998-06-19T00:00:00,1,Undrafted,,,,,,,,1489065.0
+502,Ivica Zubac,Clippers,Center,7-0,240,Croatia,1997-03-18T00:00:00,6,32,72.0,1609.0,650.0,519.0,90.0,24.0,62.0,7518518.0
